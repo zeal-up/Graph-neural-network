@@ -74,6 +74,8 @@ This basic idea of this kind of GNN is inserting an RNN architecture in the upda
    <br>`A really important work.` The formulation of the general framework is concise and elegant.
    The framework proposed by this paper can generalize 8 GNN models including `spetral and non-spetral methods`.
 2. [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+3. [Geometric deep learning on graphs and manifolds using mixture model cnns.](https://arxiv.org/abs/1611.08402)(Monti et al. 2016)
+   <br>proposed a spatial-domain model (MoNet) on nonEuclidean domains which could generalize several previous techniques.
 
 ## Few-shot learning
 1. [Zero-shot recognition via semantic embeddings and knowledge graphs](https://arxiv.org/abs/1803.080350)(2018)
